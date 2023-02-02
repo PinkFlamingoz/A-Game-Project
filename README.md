@@ -1,5 +1,5 @@
 # A Game Project
-I made this small game just to learn unity! It was amusing and enjoyable I learnd a lot.
+I made this small game just to learn unity! It was amusing and enjoyable, I learnd a lot.
 
  ## How to run the game
    1. Either fork or download the app and open the folder in Unity.
